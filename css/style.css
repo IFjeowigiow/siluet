@@ -207,6 +207,10 @@ header{
     .card-text_second p{
         margin-top: 0;
     }
+    .contacts{
+        padding-top: 9px;
+        padding-bottom: 9px;    
+    }
 }
 @media (max-width: 576px){
     .row-cols-md-3>.col {
